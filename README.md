@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - I’m looking to collaborate on NLP projects.
-- Fun fact: I learn something new everyday
 
 - **Reach me**: LinkedIn: [/arunesh11](https://www.linkedin.com/in/arunesh11/), Blogs: [Arunesh_blogs](https://medium.com/@arunesh.tamboli4) & Email: arunesh.tamboli4@gmail.com
 
