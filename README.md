@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 [![Stats for nerds](https://github-readme-stats.vercel.app/api?username=AruneshTamboli&show_icons=true&theme=gruvbox)](https://github.com/AruneshTamboli/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AruneshTamboli&layout=compact)](https://github.com/AruneshTamboli/github-readme-stats)
+
+
+  - **Contact**:
+
+    - LinkedIn: [/arunesh11](https://www.linkedin.com/in/arunesh11/)
+    - Blogs: [Arunesh_blogs](https://medium.com/@arunesh.tamboli4)
+    - Email: arunesh.tamboli4@gmail.com
